@@ -1,0 +1,20 @@
+h1 {
+    background-color: yellowgreen;
+    color: black;
+    text-align: center;
+    text-decoration: double;
+    font-size: large;
+}
+th {
+    background-color: bisque;
+    color: gray;
+    font-size: medium;
+}
+td: hover {
+    background-color: antiquewhite;
+    color:black;
+    
+}
+table {
+    border: 1px solid silver;
+}

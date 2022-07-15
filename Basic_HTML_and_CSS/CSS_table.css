@@ -1,0 +1,22 @@
+table {
+    border: 2px solid brown;
+}
+h1 {
+    background-color: darkblue;
+    color: blanchedalmond;
+    text-align: center;
+}
+th {
+    background-color: blue;
+    color: antiquewhite;
+    text-align: center;
+}
+td {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
+td:hover {
+    background-color: white;
+    color: cornflowerblue;
+}
